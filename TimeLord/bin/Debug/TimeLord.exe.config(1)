@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="TimeLord.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+    <userSettings>
+        <TimeLord.Properties.Settings>
+            <setting name="Screen_Color_Background" serializeAs="String">
+                <value>Silver</value>
+            </setting>
+            <setting name="Screen_Color_Normal" serializeAs="String">
+                <value>RoyalBlue</value>
+            </setting>
+            <setting name="Screen_Color_Invisible" serializeAs="String">
+                <value>192, 192, 0</value>
+            </setting>
+            <setting name="Screen_Color_Locked" serializeAs="String">
+                <value>Red</value>
+            </setting>
+            <setting name="Screen_Color_LockedAndInvisible" serializeAs="String">
+                <value>255, 128, 0</value>
+            </setting>
+            <setting name="Screen_Color_Highlight" serializeAs="String">
+                <value>Yellow</value>
+            </setting>
+            <setting name="Screen_MarginLeft" serializeAs="String">
+                <value>2</value>
+            </setting>
+            <setting name="Screen_MarginTop" serializeAs="String">
+                <value>2</value>
+            </setting>
+            <setting name="Screen_Color_Headings" serializeAs="String">
+                <value>White</value>
+            </setting>
+            <setting name="Screen_CellWidth" serializeAs="String">
+                <value>100</value>
+            </setting>
+            <setting name="Screen_CellHeight" serializeAs="String">
+                <value>50</value>
+            </setting>
+            <setting name="Print_Title_FontSize" serializeAs="String">
+                <value>16</value>
+            </setting>
+            <setting name="Print_Year_Height" serializeAs="String">
+                <value>150</value>
+            </setting>
+            <setting name="Print_Year_Width" serializeAs="String">
+                <value>150</value>
+            </setting>
+            <setting name="Print_Year_MarginLeft" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="Print_Staff_Height" serializeAs="String">
+                <value>150</value>
+            </setting>
+            <setting name="Print_Staff_Width" serializeAs="String">
+                <value>150</value>
+            </setting>
+            <setting name="Print_Staff_MarginLeft" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="Print_Rooms_Height" serializeAs="String">
+                <value>150</value>
+            </setting>
+            <setting name="Print_Rooms_Width" serializeAs="String">
+                <value>150</value>
+            </setting>
+            <setting name="Print_Rooms_MarginLeft" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="Print_Subject_Height" serializeAs="String">
+                <value>150</value>
+            </setting>
+            <setting name="Print_Subject_Width" serializeAs="String">
+                <value>150</value>
+            </setting>
+            <setting name="Print_Subject_MarginLeft" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="Print_Homework_Height" serializeAs="String">
+                <value>150</value>
+            </setting>
+            <setting name="Print_Homework_Width" serializeAs="String">
+                <value>150</value>
+            </setting>
+            <setting name="Print_Homework_MarginLeft" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="Print_School_Height" serializeAs="String">
+                <value>150</value>
+            </setting>
+            <setting name="Print_School_Width" serializeAs="String">
+                <value>150</value>
+            </setting>
+            <setting name="Print_School_MarginLeft" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="Print_Header_Height" serializeAs="String">
+                <value>50</value>
+            </setting>
+        </TimeLord.Properties.Settings>
+    </userSettings>
+</configuration>

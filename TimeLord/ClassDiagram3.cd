@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TimeLord.Years">
+    <Position X="3.75" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EAIAEQAgECAIABBBAICBAAACAiAAAAUAACAAAAJAgBQ=</HashCode>
+      <FileName>Years.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.Weeks">
+    <Position X="7" Y="16" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EAIAEAAgECAIABBBAICBAACCAyAAAAUAACAAAAJAgBQ=</HashCode>
+      <FileName>Weeks.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.VisibleYearsAndForms">
+    <Position X="10.25" Y="12.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAAACAAEAAAAACAAAACCgAAEAAMAAAAAABAABQ=</HashCode>
+      <FileName>VisibleYearsAndForms.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.subjectManager">
+    <Position X="10.25" Y="6.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAQAAQAAACAgQBAAEACAABICA4gAAAAAAGECgAAAAAA=</HashCode>
+      <FileName>subjectManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.staffManager">
+    <Position X="10.25" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAgABABEACAAAACA4gIAAEAAGGAAABAgAA=</HashCode>
+      <FileName>staffManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.roomManager">
+    <Position X="7" Y="24.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>gEAAEAAAACAAABJAAgCACABCAEgAAAAABCAAAAFAACA=</HashCode>
+      <FileName>roomManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.PrintDialog">
+    <Position X="7" Y="6.75" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ACAAggoECCACAAQEAACgABIDQEw4AAAAgHAIIAICACI=</HashCode>
+      <FileName>PrintDialog.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.Form2">
+    <Position X="3.75" Y="8.25" Width="3" />
+    <TypeIdentifier>
+      <HashCode>/xHAEIAQACAdQByBQAGIAEYfVWACFgRGC2CAUIATkDA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.Form1">
+    <Position X="0.5" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>l0C15pEsgWqHWL+Jv2erkNoyCykJVSsSEgVZAAyzZeM=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.About">
+    <Position X="7" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EICAAAwAACAACBUAAASAAAADAAAgAIAAIAAAAAABACA=</HashCode>
+      <FileName>About.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.AddLesson">
+    <Position X="10.25" Y="17" Width="3" />
+    <TypeIdentifier>
+      <HashCode>EwAgAAAAECAyCBSAAgCAChQSAAgIAgAAAGAACAAABIA=</HashCode>
+      <FileName>AddLesson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

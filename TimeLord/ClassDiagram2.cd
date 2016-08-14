@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TimeLord.YearGroup">
+    <Position X="5.75" Y="2.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAEEAAAAAAMQAQAAAAIAAAAAAAIIAA=</HashCode>
+      <FileName>YearGroup.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.Timetable">
+    <Position X="0.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAgMAYAggAgAEQAAgSEAAKBCAAKMAAAAJQAZAAQVg=</HashCode>
+      <FileName>Timetable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.Teacher">
+    <Position X="7.75" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAEEAAAAAAIAQAAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.Subject">
+    <Position X="3.25" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAEAAAAAAAAAAAAAAAACIAAAA=</HashCode>
+      <FileName>Subject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.Room">
+    <Position X="3.25" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAIAABAAAAIQAAAAAAAAAA=</HashCode>
+      <FileName>Room.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.Period">
+    <Position X="5.75" Y="6" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAEAAAAAAAAAAAAAAAAAAAAAAgAADA=</HashCode>
+      <FileName>Period.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.Lesson">
+    <Position X="7.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAIACAIAAEASAAEBAAAABAASAAAAAgBgAAABA=</HashCode>
+      <FileName>Lesson.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.FormClass">
+    <Position X="7.75" Y="5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAGAAAAAE=</HashCode>
+      <FileName>FormClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TimeLord.Day">
+    <Position X="3.25" Y="2.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAABAAAAQAEAAgAAAAAAAAAAAAAAAQAAAgAAAA=</HashCode>
+      <FileName>Day.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="TimeLord.AddLessonMode">
+    <Position X="5.75" Y="0.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAAEAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>AddLesson.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="TimeLord.ClickMode">
+    <Position X="3.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAIACAAAAAAAAAAAAAAAIAAAACAAAAAAAAAM=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

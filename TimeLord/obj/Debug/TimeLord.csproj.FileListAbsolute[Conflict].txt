@@ -1,0 +1,30 @@
+c:\users\ryan\documents\visual studio 2013\Projects\TimeLord\TimeLord\bin\Debug\TimeLord.exe.config
+c:\users\ryan\documents\visual studio 2013\Projects\TimeLord\TimeLord\bin\Debug\TimeLord.exe
+c:\users\ryan\documents\visual studio 2013\Projects\TimeLord\TimeLord\bin\Debug\TimeLord.pdb
+c:\users\ryan\documents\visual studio 2013\Projects\TimeLord\TimeLord\obj\Debug\TimeLord.Form1.resources
+c:\users\ryan\documents\visual studio 2013\Projects\TimeLord\TimeLord\obj\Debug\TimeLord.Properties.Resources.resources
+c:\users\ryan\documents\visual studio 2013\Projects\TimeLord\TimeLord\obj\Debug\TimeLord.csproj.GenerateResource.Cache
+c:\users\ryan\documents\visual studio 2013\Projects\TimeLord\TimeLord\obj\Debug\TimeLord.exe
+c:\users\ryan\documents\visual studio 2013\Projects\TimeLord\TimeLord\obj\Debug\TimeLord.pdb
+c:\users\ryan\documents\visual studio 2013\Projects\TimeLord\TimeLord\obj\Debug\TimeLord.Weeks.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\TimeLord\TimeLord\obj\Debug\TimeLord.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\documents\visual studio 2013\Projects\TimeLord\TimeLord\obj\Debug\TimeLord.Years.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\TimeLord\TimeLord\obj\Debug\TimeLord.staffManager.resources
+C:\Users\Ryan\documents\visual studio 2013\Projects\TimeLord\TimeLord\obj\Debug\TimeLord.roomManager.resources
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\bin\Debug\TimeLord.exe.config
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\obj\Debug\TimeLord.exe
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\obj\Debug\TimeLord.pdb
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\bin\Debug\TimeLord.exe
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\bin\Debug\TimeLord.pdb
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\obj\Debug\TimeLord.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\obj\Debug\TimeLord.AddLesson.resources
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\obj\Debug\TimeLord.Form1.resources
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\obj\Debug\TimeLord.Properties.Resources.resources
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\obj\Debug\TimeLord.roomManager.resources
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\obj\Debug\TimeLord.staffManager.resources
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\obj\Debug\TimeLord.Weeks.resources
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\obj\Debug\TimeLord.Years.resources
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\obj\Debug\TimeLord.csproj.GenerateResource.Cache
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\obj\Debug\TimeLord.subjectManager.resources
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\obj\Debug\TimeLord.About.resources
+C:\Users\Ryan\Google Drive\Computing Project\Technical Solution\TimeLord\TimeLord\obj\Debug\TimeLord.Form2.resources
