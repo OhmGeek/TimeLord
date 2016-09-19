@@ -1,5 +1,7 @@
 # TimeLord
-A simple school timetabling application.
+A simple school timetabling application built using C Sharp. For a modern online version created as an improvement, check out [TimeLordOnline](https://github.com/OhmGeek/TimeLordOnline).
+
+NB: This is no longer being properly updated, although I might end up coming back to this at some point.
 
 ## What does the program do?
 The program itself allows for managing of rooms, staff and lessons within a timetable. It allows dragging and dropping of lessons, with clash detection. Printing of multiple different timetables can be done using the appropriate dialog box.
